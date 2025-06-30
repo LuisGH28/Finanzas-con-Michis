@@ -1,0 +1,15 @@
+version: "3.1"
+nlu:
+- intent: preguntar_gasto_mes
+  examples: |
+    - ¿Cuánto he gastado este mes?
+    - ¿Cuánto llevo gastado en junio?
+    - Total del mes
+    - ¿En qué he gastado este mes?
+
+- intent: pedir_consejo_ahorro
+  examples: |
+    - Dame un consejo para ahorrar
+    - ¿Cómo puedo ahorrar dinero?
+    - Tips de ahorro
+    - Ayúdame a gastar menos

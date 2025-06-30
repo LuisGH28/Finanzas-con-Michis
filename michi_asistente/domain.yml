@@ -1,0 +1,15 @@
+version: "3.1"
+intents:
+  - preguntar_gasto_mes
+  - pedir_consejo_ahorro
+
+actions:
+  - action_gastos_mes
+
+responses:
+  utter_consejo_ahorro:
+    - text: "🐱 Consejo: Intenta separar un 10% de tus ingresos para emergencias. ¡Y evita gastos innecesarios en croquetas premium 😹!"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

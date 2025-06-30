@@ -1,0 +1,11 @@
+version: "3.1"
+stories:
+- story: consultar gastos del mes
+  steps:
+    - intent: preguntar_gasto_mes
+    - action: action_gastos_mes
+
+- story: pedir consejo
+  steps:
+    - intent: pedir_consejo_ahorro
+    - action: utter_consejo_ahorro

@@ -1,0 +1,7 @@
+language: es
+pipeline: supervised_embeddings
+policies:
+  - name: MemoizationPolicy
+  - name: RulePolicy
+  - name: UnexpecTEDIntentPolicy
+  - name: TEDPolicy
