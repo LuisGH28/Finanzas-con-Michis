@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "2c35ee283ad75ae3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f95ce2de5ce048d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a70ae6f1e1586e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_functional_modules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06_functional_modules"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2205229bdafb6aae",
+    "type": "split",
+    "children": [
+      {
+        "id": "59c9cd01d6e803b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ed28d1cf6f70db4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fec686a6440ffb78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#FFF8E1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9b8d607313b89f47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fc8664065fc9f0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f5ff82ffe0513f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a6d8b7e4a376cef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06_functional_modules.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 06_functional_modules"
+            }
+          },
+          {
+            "id": "c9d7e1972ae63ec9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06_functional_modules.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 06_functional_modules"
+            }
+          },
+          {
+            "id": "1a30d7522c41aa65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0c71d2d1a48ff47d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06_functional_modules.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 06_functional_modules"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "96a70ae6f1e1586e",
+  "lastOpenFiles": [
+    "01_objectives.md",
+    "05_ui_ux_design.md",
+    "00_summary.md",
+    "10_internationalization.md",
+    "09_data_export.md",
+    "08_data_sync.md",
+    "07_ai_assistant.md",
+    "06_functional_modules.md",
+    "04_databases.md",
+    "03_app_architecture.md",
+    "02_requirements.md",
+    "11_internationalization.md",
+    "10_work_plan.md"
+  ]
+}
