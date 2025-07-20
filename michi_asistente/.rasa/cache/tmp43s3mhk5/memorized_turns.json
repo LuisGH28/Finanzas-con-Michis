@@ -1,0 +1,9 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhIDUlsyg+OT+vODUrPz4xI7+oKL+2NhYAtkchvA==": "utter_consejo_ahorro",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhIDUlsyg+OT+vODUrPz4xI7+oKL+WgJGlJSWpGHqINDkWALJPRMk=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEoBqDO9NK8ksSg+PbG4JD8+N7W4tjYWAJa9IWc=": "action_gastos_mes",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEoBqDO9NK8ksSg+PbG4JD8+N7W4ljgTweqLwRqIMzUWAF4dQsM=": "action_listen"
+  }
+}

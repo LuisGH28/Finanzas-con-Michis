@@ -1,6 +1,8 @@
 __pycache__/
 *.pyc
 *.db
+*.sql
 .env
 .venv/
+venv/
 rasa-models/

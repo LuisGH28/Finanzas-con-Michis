@@ -12,7 +12,7 @@ class ActionGastosMes(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         
-        conn = sqlite3.connect("finanzas.db")
+        conn = sqlite3.connect("finances.db")
         cursor = conn.cursor()
 
         mes_actual = datetime.now().strftime("%m")

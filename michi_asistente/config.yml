@@ -1,7 +1,20 @@
 language: es
-pipeline: supervised_embeddings
+pipeline:
+- name: WhitespaceTokenizer
+- name: RegexFeaturizer
+- name: LexicalSyntacticFeaturizer
+- name: CountVectorsFeaturizer
+- name: DIETClassifier
+  epochs: 100
+- name: EntitySynonymMapper
+- name: ResponseSelector
+  epochs: 100
+- name: FallbackClassifier
+  threshold: 0.3
+
 policies:
-  - name: MemoizationPolicy
-  - name: RulePolicy
-  - name: UnexpecTEDIntentPolicy
-  - name: TEDPolicy
+- name: MemoizationPolicy
+- name: RulePolicy
+- name: TEDPolicy
+  epochs: 100
+assistant_id: 20250720-101153-hidden-kestrel
